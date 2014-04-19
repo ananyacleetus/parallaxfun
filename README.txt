@@ -1,1 +1,1 @@
-Ignore this.. I'm just experimenting with Jarallax
+Hi, I'm just playing around with parallax scrolling. Totally ignore this project
